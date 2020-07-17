@@ -4,8 +4,9 @@
 <h1 align="center">Flam3rboy</h1>
 
 ## Projects
-- Most stars ⭐️: https://github.com/Flam3rboy/discord-bot-client [(DEMO)](https://botclient.tk)
-- Most commits 🛠: https://github.com/Flam3rboy/Trenite [(private)](https://trenite.tk)
+- [Most stars ⭐️](https://github.com/Flam3rboy/discord-bot-client) &emsp;&emsp;&emsp;Discord Bot Client [(Demo)](https://botclient.tk)
+- [Most commits 🛠](https://github.com/Flam3rboy/Trenite) &emsp;&nbsp;&nbsp;Trenite Discord Bot [(Demo)](https://trenite.tk)
+- [First Repository ✏](https://github.com/Flam3rboy/Database-Browser) &emsp;SQL Database Browser [(Example)](https://github.com/Flam3rboy/Database-Browser)
 
 ### Programming languages
 - JavaScript, preferably TypeScript
