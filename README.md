@@ -4,7 +4,7 @@
 <h1 align="center">Flam3rboy</h1>
 
 ## Projects
-- Most stars ⭐️: https://github.com/Flam3rboy/discord-bot-client
+- Most stars ⭐️: https://github.com/Flam3rboy/discord-bot-client [(DEMO)](https://botclient.tk)
 - Most commits 🛠: https://github.com/Flam3rboy/Trenite [(private)](https://trenite.tk)
 
 ### Programming languages
