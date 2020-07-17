@@ -1,16 +1,29 @@
-### Hi there 👋
+<p align="center">
+    <img style="border-radius: 100px" width="128" height="128" src="https://cdn.discordapp.com/avatars/311129357362135041/401edcbaa39365697dc0a01cb1d0b485.png?size=2048">
+</p>
+<h1 align="center">Flam3rboy</h1>
 
-<!--
-**Flam3rboy/Flam3rboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+- Most stars ⭐️: https://github.com/Flam3rboy/discord-bot-client
+- Most commits 🛠: https://github.com/Flam3rboy/Trenite [(private)](https://trenite.tk)
 
-Here are some ideas to get you started:
+### Programming languages
+- JavaScript, preferably TypeScript
+- PHP
+- SQL
+- MongoDB
+- Java
+- C/C++
+- (Python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frameworks
+- React.JS
+- Node JS
+- Socket.IO
+- Express.JS
+- GraphQL
+- Framework7
+- P5.JS
+- Ionic
+- Win32
+- Bootstrap
