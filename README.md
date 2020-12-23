@@ -3,16 +3,6 @@
 </p>
 <h1 align="center">Flam3rboy</h1>
 
-## Popular Projects:
-[![Discord Bot Client](https://github-readme-stats.vercel.app/api/pin/?username=flam3rboy&repo=discord-bot-client)](https://github.com/Flam3rboy/discord-bot-client)
-[![Spotify Playback SDK Node](https://github-readme-stats.vercel.app/api/pin/?username=flam3rboy&repo=spotify-playback-sdk-node)](https://github.com/Flam3rboy/spotify-playback-sdk-node)
-[![Puppeteer Stream](https://github-readme-stats.vercel.app/api/pin/?username=flam3rboy&repo=puppeteer-stream)](https://github.com/Flam3rboy/puppeteer-stream)
-[![Carcassonne](https://github-readme-stats.vercel.app/api/pin/?username=flam3rboy&repo=Carcassonne)](https://github.com/Flam3rboy/Carcassonne)
-[![Lambert Discord](https://github-readme-stats.vercel.app/api/pin/?username=Trenite&repo=Lambert-discord)](https://github.com/Trenite/Lambert-discord)
-[![Lambert-ORM](https://github-readme-stats.vercel.app/api/pin/?username=Trenite&repo=Lambert-ORM)](https://github.com/Trenite/Lambert-ORM)
-[![Lambert-ORM](https://github-readme-stats.vercel.app/api/pin/?username=discord-open-source&repo=server)](https://github.com/discord-open-source/server)
-
-
 ### Languages, Tools and Frameworks:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
