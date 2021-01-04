@@ -20,12 +20,17 @@
 <img align="left" alt="Cordova" width="26px" src="https://cordova.apache.org/static/img/cordova_bot.png" />
 
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Linux" width="26px" src="https://github.com/github/explore/blob/master/topics/linux/linux.png?raw=true" />
+
 <br />
+<img align="left" alt="Linux" width="26px" src="https://github.com/github/explore/blob/master/topics/linux/linux.png?raw=true" />
+<img align="left" alt="puppeteer" width="26px" src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg"  />
+<img align="left" alt="nginx" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"  />
+<img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  />
+<img align="left" alt="rethinkdb" width="26px" src="https://landscape.cncf.io/logos/rethink-db.svg"  />
+
 <br />
 <br />
 
