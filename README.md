@@ -16,7 +16,7 @@
 <img align="left" alt="Wordpress" width="26px" src="https://github.com/github/explore/blob/master/topics/wordpress/wordpress.png?raw=true" />
 <img align="left" alt="PHP" width="26px" src="https://github.com/github/explore/blob/master/topics/php/php.png?raw=true" />
 <img align="left" alt="C++" width="26px" src="https://github.com/github/explore/blob/master/topics/cpp/cpp.png?raw=true" />
-<img align="left" alt="Java" width="26px" src="https://github.com/github/explore/blob/master/topics/java/java.png?raw=true" />
+<img align="left" alt="Java" width="26px" src="https://icon-library.com/images/java-icon-images/java-icon-images-6.jpg" />
 <img align="left" alt="P5.JS" width="26px" src="https://miro.medium.com/max/790/0*VBze2-2kX06fDv8A." />
 <img align="left" alt="Cordova" width="26px" src="https://cordova.apache.org/static/img/cordova_bot.png" />
 
