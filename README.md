@@ -54,9 +54,11 @@
 <a href="https://github.com/Flam3rboy/spotify-playback-sdk-node">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flam3rboy&repo=spotify-playback-sdk-node" />
 </a>
+<!--
 <a href="https://github.com/Flam3rboy/carcassonne">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flam3rboy&repo=carcassonne" />
 </a>
+-->
 
 <br />
 <a href="https://github.com/Trenite/lambert-db">
