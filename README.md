@@ -31,7 +31,7 @@
 <img align="left" alt="nginx" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"  />
 <img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  />
 <img align="left" alt="rethinkdb" width="26px" src="https://landscape.cncf.io/logos/rethink-db.svg"  />
-<img align="left" alt="Linux" width="26px" src="https://github.com/github/explore/blob/master/topics/linux/linux.png?raw=true" />
+<img align="left" alt="Linux" width="26px" src="https://github.com/github/explore/blob/main/topics/linux/linux.png?raw=true" />
 </p>
 
 <br />
