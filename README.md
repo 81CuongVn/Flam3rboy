@@ -3,6 +3,11 @@
 </p>
 <h1 align="center">Flam3rboy</h1>
 
+
+🔭 I’m currently working on **[Fosscord](https://github.com/fosscord/fosscord)**
+
+📫 Contact [Twitter](https://twitter.com/Flam3rboy), [Reddit](https://www.reddit.com/user/flam3rboy), [Discord](https://discord.com/users/311129357362135041)``Flam3rboy#3490`` 
+
 ### Languages:
 
 <p>
