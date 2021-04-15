@@ -3,17 +3,18 @@
 </p>
 <h1 align="center">Flam3rboy</h1>
 
-### Programming Languages:
+### Languages:
 
 <p>
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png?raw=true" />
 <img align="left" alt="PHP" width="26px" src="https://github.com/github/explore/blob/main/topics/php/php.png?raw=true" />
 <img align="left" alt="C++" width="26px" src="https://github.com/github/explore/blob/main/topics/cpp/cpp.png?raw=true" />
 <img align="left" alt="Java" width="26px" src="https://icon-library.com/images/java-icon-images/java-icon-images-6.jpg" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+
 
 </p>
 
