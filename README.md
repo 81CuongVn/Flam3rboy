@@ -3,6 +3,7 @@
 </p>
 <h1 align="center">Flam3rboy</h1>
 
+![](https://github.com/Flam3rboy/Flam3rboy/blob/master/github-metrics.svg)
 
 🔭 I’m currently working on **[Fosscord](https://github.com/fosscord/fosscord)**
 
@@ -84,58 +85,4 @@
         <img align="left" alt="Linux" width="26px" src="https://github.com/github/explore/blob/main/topics/linux/linux.png?raw=true" />
     </a>
 </p>
-
-<br />
-<br />
-<br />
-<br />
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=flam3rboy&count_private=true&show_icons=true&include_all_commits=true)
-
-
-<a href="https://github.com/Flam3rboy/discord-bot-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flam3rboy&repo=discord-bot-client" />
-</a>
-<a href="https://github.com/Flam3rboy/missing-native-JS-functions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flam3rboy&repo=missing-native-JS-functions" />
-</a>
-<a href="https://github.com/Flam3rboy/puppeteer-stream">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flam3rboy&repo=puppeteer-stream" />
-</a>
-<a href="https://github.com/Flam3rboy/spotify-playback-sdk-node">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flam3rboy&repo=spotify-playback-sdk-node" />
-</a>
-<a href="https://github.com/Flam3rboy/twitch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flam3rboy&repo=twitch" />
-</a>
-<!--
-<a href="https://github.com/Flam3rboy/carcassonne">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flam3rboy&repo=carcassonne" />
-</a>
--->
-
-<br />
-<a href="https://github.com/Trenite/lambert-db">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trenite&repo=lambert-db" />
-</a>
-<a href="https://github.com/Trenite/lambert-server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trenite&repo=lambert-server" />
-</a>
-<a href="https://github.com/Trenite/lambert-discord">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trenite&repo=lambert-discord" />
-</a>
-<br />
-
-<a href="https://github.com/Fosscord/fosscord">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fosscord&repo=fosscord" />
-</a>
-<a href="https://github.com/fosscord/fosscord-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fosscord&repo=fosscord-api" />
-</a>
-<a href="https://github.com/fosscord/fosscord-gateway">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fosscord&repo=fosscord-gateway" />
-</a>
-<a href="https://github.com/fosscord/fosscord-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fosscord&repo=fosscord-client" />
-</a>
 
