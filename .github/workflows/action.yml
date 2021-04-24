@@ -14,3 +14,21 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
+        
+          user: flam3rboy
+          template: classic
+          base: activity, community, repositories, metadata
+          config_timezone: Europe/Berlin
+          config_twemoji: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_limit: 20
+          plugin_languages_threshold: 0%
+          plugin_lines: yes
+          plugin_projects: yes
+          plugin_projects_limit: 8
+          plugin_stargazers: yes
+          plugin_traffic: yes
+          repositories: 500
