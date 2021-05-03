@@ -24,10 +24,5 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_limit: 20
           plugin_languages_threshold: 0%
-          plugin_lines: yes
-          plugin_projects: yes
-          plugin_projects_limit: 20
-          plugin_projects_repositories: fosscord/fosscord flam3rboy/discord-bot-client
-          plugin_projects_descriptions: yes
           plugin_traffic: yes
           repositories: 500
