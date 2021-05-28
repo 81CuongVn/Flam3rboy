@@ -3,7 +3,9 @@
 </p>
 <h1 align="center">Flam3rboy</h1>
 
-![](https://github.com/Flam3rboy/Flam3rboy/blob/master/github-metrics.svg)
+<p align="center">    
+    <img src="https://github.com/Flam3rboy/Flam3rboy/blob/master/github-metrics.svg">
+</p>
 
 🔭 I’m currently working on **[Fosscord](https://github.com/fosscord/fosscord)**
 
