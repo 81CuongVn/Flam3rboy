@@ -1,5 +1,5 @@
-<p align="center">
-    <img style="border-radius: 100px" width="128" height="128" src="https://cdn.discordapp.com/avatars/311129357362135041/401edcbaa39365697dc0a01cb1d0b485.png?size=2048">
+<p align="center">    
+    <img style="border-radius: 100px" width="128" height="128" src="https://user-images.githubusercontent.com/34555296/120018801-eda07a80-bfe7-11eb-8b73-bd245bfad998.png">
 </p>
 <h1 align="center">Flam3rboy</h1>
 
