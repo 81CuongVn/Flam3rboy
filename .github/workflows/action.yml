@@ -21,6 +21,7 @@ jobs:
           config_timezone: Europe/Berlin
           config_twemoji: yes
           plugin_languages: yes
+          plugin_languages_ignored: html, css, javascript, coffeescript
           plugin_languages_colors: github
           plugin_languages_limit: 20
           plugin_languages_threshold: 0%
