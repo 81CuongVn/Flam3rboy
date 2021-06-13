@@ -134,8 +134,14 @@
 		spotify-playback-sdk-node
 		</a>
 		<a href="https://www.npmjs.com/package/spotify-playback-sdk-node">
-		<img align="right" src="https://img.shields.io/github/languages/top/flam3rboy/spotify-playback-sdk-node?color=2d7389">
+		<img align="right" src="https://img.shields.io/github/languages/top/flam3rboy/spotify-playback-sdk-node?color=f0e05a">
 		<img align="right" src="https://img.shields.io/npm/dt/spotify-playback-sdk-node">
+		</a>
+	</li>
+	<li>
+		<a href="https://github.com/x127f/spotify-user-utils">
+		spotify-user-utils
+		<img align="right" src="https://img.shields.io/github/languages/top/x127f/spotify-user-utils?color=2d7389">
 		</a>
 	</li>
 	<li>
