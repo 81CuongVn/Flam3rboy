@@ -20,11 +20,11 @@
     <a href="https://www.typescriptlang.org/">
         <img align="left" alt="TypeScript" width="26px" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png?raw=true" />
     </a>
-    <a href="https://www.php.net">
-        <img align="left" alt="PHP" width="26px" src="https://github.com/github/explore/blob/main/topics/php/php.png?raw=true" />
-    </a>
     <a href="https://wikipedia.org/wiki/C++">
         <img align="left" alt="C++" width="26px" src="https://github.com/github/explore/blob/main/topics/cpp/cpp.png?raw=true" />
+    </a>
+    <a href="https://www.php.net">
+        <img align="left" alt="PHP" width="26px" src="https://github.com/github/explore/blob/main/topics/php/php.png?raw=true" />
     </a>
     <a href="https://www.java.com/">
         <img align="left" alt="Java" width="26px" src="https://icon-library.com/images/java-icon-images/java-icon-images-6.jpg" />
@@ -39,7 +39,7 @@
 
 <br />
 
-## Frameworks, libraries and tools
+## Tools
 
 <p>
     <a href="http://expressjs.com/">
