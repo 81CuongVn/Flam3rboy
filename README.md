@@ -169,6 +169,12 @@
 		</a>
 	</li>
 	<li>
+		<a href="https://github.com/Flam3rboy/p5js-node">
+		P5js fork for nodejs
+		<img align="right" src="https://img.shields.io/github/languages/top/flam3rboy/p5js-node?color=f0e05a">
+		</a>
+	</li>
+	<li>
 		<a href="https://github.com/Flam3rboy/PokemonGame">Pokemon Game
 		<img align="right" src="https://img.shields.io/github/languages/top/flam3rboy/pokemongame?color=b0721a">
 		<img align="right" src="https://img.shields.io/badge/archived-5c5c5c">
