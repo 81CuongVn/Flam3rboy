@@ -38,14 +38,7 @@ jobs:
           plugin_lines: yes
           plugin_notable: yes
           plugin_traffic: yes
-          plugin_stargazers: yes
           plugin_topics: yes
           plugin_topics_sort: stars    # Sort by most starred topics
           plugin_topics_mode: mastered # Display icons instead of labels
           plugin_topics_limit: 0       # Disable limitations
-          plugin_habits: yes
-          plugin_habits_from: 1000       # Use 200 events to compute habits
-          plugin_habits_days: 30        # Keep only events from last 14 days
-          plugin_habits_facts: no       # Display facts section
-          plugin_habits_charts: yes     # Display charts section
-          plugin_habits_trim: yes       # Trim unused hours on daily chart
