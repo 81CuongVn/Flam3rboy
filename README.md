@@ -122,7 +122,7 @@
 			</td>
 			<td>A Database abstraction layer for different database engines</td>
 			<td>
-				<img src="https://img.shields.io/github/languages/top/flam3rboy/lambert-db?	color=2d7389">
+				<img src="https://img.shields.io/github/languages/top/flam3rboy/lambert-db?color=2d7389">
 			</td>
 		</tr>
 		<tr>
