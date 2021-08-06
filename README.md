@@ -36,7 +36,7 @@
 		<tr>
 			<td><a href="https://github.com/Flam3rboy/discord-bot-client">
 			Discord Bot Client</a></td>	
-			<td>A patched version of discord, with bot login support</td>
+			<td>A patched version of discord with bot login support</td>
 			<td>
 				<img src="https://img.shields.io/github/languages/top/flam3rboy/discord-bot-client?color=e34c25">
 				<img src="https://img.shields.io/github/downloads/flam3rboy/discord-bot-client/total">
