@@ -71,6 +71,17 @@
 		</tr>
 		<tr>
 			<td>
+				<a href="https://github.com/x127f/image-manipulation-api">
+				Image manipulation api
+				</a>
+			</td>
+			<td>A Image manipulation api for adjustable discord rank cards and many more (coming soon)</td>
+			<td>
+				<img src="https://img.shields.io/github/languages/top/x127f/image-manipulation-api?color=2d7389">
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<a href="https://github.com/Flam3rboy/spotify-playback-sdk-node">
 				spotify-playback-sdk-node
 				</a>
