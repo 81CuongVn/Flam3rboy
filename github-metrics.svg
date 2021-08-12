@@ -2533,7 +2533,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="22.0875 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="22.09525 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2557,11 +2557,11 @@
                   Super maintainer
                   
                     <span class="gh">
-                      ranked 2.94k out of 238m repositories
+                      ranked 2.93k out of 238m repositories
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository with 7850 stars</div>
+                                <div class="text">Maintaining a repository with 7851 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2656,7 +2656,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="51.28659938506787 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="51.29444943516932 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2735,7 +2735,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="128.5175879396985 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="129.2964824120603 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2773,11 +2773,11 @@
                   Influencer
                   
                     <span class="gh">
-                      ranked 30.1k out of 75m users
+                      ranked 29.9k out of 75m users
                     </span>
                   
                 </div>
-                                <div class="text">Followed by 166 users</div>
+                                <div class="text">Followed by 167 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3120,7 +3120,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12/08/2021, 12:24 (timezone Europe/Berlin) with lowlighter/metrics@3.12.0</span>
+                <span>Last updated 12/08/2021, 13:17 (timezone Europe/Berlin) with lowlighter/metrics@3.12.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
