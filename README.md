@@ -34,16 +34,6 @@
 			</td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/Flam3rboy/discord-bot-client">
-			Discord Bot Client</a></td>	
-			<td>A patched version of discord with bot login support</td>
-			<td>
-				<img src="https://img.shields.io/github/languages/top/flam3rboy/discord-bot-client?color=e34c25">
-				<img src="https://img.shields.io/github/downloads/flam3rboy/discord-bot-client/total">
-				<img src="https://img.shields.io/github/stars/Flam3rboy/discord-bot-client">
-			</td>
-		</tr>
-		<tr>
 			<td>
 				<a href="https://github.com/Flam3rboy/missing-native-JS-functions">
 		Missing Native JS Functions
@@ -155,6 +145,17 @@
 			</td>
 			<td>P5js fork for nodejs</td>
 			<td><img src="https://img.shields.io/github/languages/top/flam3rboy/p5js-node?color=f0e05a"></td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/Flam3rboy/discord-bot-client">
+			Discord Bot Client</a></td>	
+			<td>A patched version of discord with bot login support</td>
+			<td>
+				<img src="https://img.shields.io/github/languages/top/flam3rboy/discord-bot-client?color=e34c25">
+				<img src="https://img.shields.io/github/downloads/flam3rboy/discord-bot-client/total">
+				<img src="https://img.shields.io/github/stars/Flam3rboy/discord-bot-client">
+								<img src="https://img.shields.io/badge/archived-5c5c5c">
+			</td>
 		</tr>
 		<tr>
 			<td>
