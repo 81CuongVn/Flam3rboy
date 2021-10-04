@@ -35,6 +35,17 @@
 		</tr>
 		<tr>
 			<td>
+				<a href="https://github.com/x127f/timetable-generator">Timetable generator</a>
+			</td>
+			<td>
+				Ultimate flexible agile timetable generator
+			</td>
+			<td>
+				<img src="https://img.shields.io/github/languages/top/x127f/timetable-generator?color=2d7389">
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<a href="https://github.com/Flam3rboy/missing-native-JS-functions">
 		Missing Native JS Functions
 		</a>
