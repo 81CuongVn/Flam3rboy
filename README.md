@@ -88,22 +88,13 @@
 				</a>
 			</td>
 			<td>An express.js (http framework for nodejs) route handler</td>
-			<td>
-				<img src="https://img.shields.io/github/languages/top/flam3rboy/lambert-server?color=2d7389">
-			</td>
+			<td><img src="https://img.shields.io/github/languages/top/flam3rboy/lambert-server?color=2d7389"></td>
 		</tr>
 		<tr>
-			<td>
-				<a href="https://github.com/Flam3rboy/Lambert-db">
-				Lambert-db
-				</a>
-			</td>
+			<td> <a href="https://github.com/Flam3rboy/Lambert-db">Lambert-db</a></td>
 			<td>A Database abstraction layer for different database engines</td>
-			<td>
-				<img src="https://img.shields.io/github/languages/top/flam3rboy/lambert-db?color=2d7389">
-			</td>
+			<td><img src="https://img.shields.io/github/languages/top/flam3rboy/lambert-db?color=2d7389"></td>
 		</tr>
-		
 		<tr>
 			<td>
 				<a href="https://github.com/Flam3rboy/carcassonne-ai">
@@ -114,10 +105,8 @@
 			<td>
 				<img src="https://img.shields.io/github/languages/top/flam3rboy/carcassonne-ai?color=2d7389">
 				<img src="https://img.shields.io/badge/archived-5c5c5c">
-				
 			</td>
 		</tr>
-		
 		<tr>
 			<td>
 				<a href="https://github.com/Flam3rboy/spotify-playback-sdk-node">
