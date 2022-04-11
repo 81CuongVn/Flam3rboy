@@ -35,17 +35,6 @@
 		</tr>
 		<tr>
 			<td>
-				<a href="https://github.com/x127f/timetable-generator">Timetable generator</a>
-			</td>
-			<td>
-				Ultimate flexible agile timetable generator
-			</td>
-			<td>
-				<img src="https://img.shields.io/github/languages/top/x127f/timetable-generator?color=2d7389">
-			</td>
-		</tr>
-		<tr>
-			<td>
 				<a href="https://github.com/Flam3rboy/missing-native-JS-functions">
 		Missing Native JS Functions
 		</a>
@@ -83,18 +72,6 @@
 		</tr>
 		<tr>
 			<td>
-				<a href="https://github.com/Flam3rboy/spotify-playback-sdk-node">
-				spotify-playback-sdk-node
-				</a>
-			</td>
-			<td>Inofficial NodeJS Wrapper for the Web Playback SDK of Spotify</td>
-			<td>
-				<img src="https://img.shields.io/github/languages/top/flam3rboy/spotify-playback-sdk-node?color=f0e05a">
-				<img src="https://img.shields.io/npm/dt/spotify-playback-sdk-node">
-			</td>
-		</tr>
-		<tr>
-			<td>
 				<a href="https://github.com/x127f/spotify-user-utils">
 				spotify-user-utils
 				</a>
@@ -102,17 +79,6 @@
 			<td>Tool to sort spotify playlist by genre and further divide them into separate playlists</td>
 			<td>
 				<img src="https://img.shields.io/github/languages/top/x127f/spotify-user-utils?color=2d7389">
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="https://github.com/Flam3rboy/carcassonne-ai">
-				Carcassonne-ai
-				</a>
-			</td>
-			<td>Artificial intelligence for the board game Carcassonne</td>
-			<td>
-				<img src="https://img.shields.io/github/languages/top/flam3rboy/carcassonne-ai?color=2d7389">
 			</td>
 		</tr>
 		<tr>
@@ -137,6 +103,46 @@
 				<img src="https://img.shields.io/github/languages/top/flam3rboy/lambert-db?color=2d7389">
 			</td>
 		</tr>
+		
+		<tr>
+			<td>
+				<a href="https://github.com/Flam3rboy/carcassonne-ai">
+				Carcassonne-ai
+				</a>
+			</td>
+			<td>Artificial intelligence for the board game Carcassonne</td>
+			<td>
+				<img src="https://img.shields.io/github/languages/top/flam3rboy/carcassonne-ai?color=2d7389">
+				<img src="https://img.shields.io/badge/archived-5c5c5c">
+				
+			</td>
+		</tr>
+		
+		<tr>
+			<td>
+				<a href="https://github.com/Flam3rboy/spotify-playback-sdk-node">
+				spotify-playback-sdk-node
+				</a>
+			</td>
+			<td>Inofficial NodeJS Wrapper for the Web Playback SDK of Spotify</td>
+			<td>
+				<img src="https://img.shields.io/github/languages/top/flam3rboy/spotify-playback-sdk-node?color=f0e05a">
+				<img src="https://img.shields.io/npm/dt/spotify-playback-sdk-node">
+				<img src="https://img.shields.io/badge/archived-5c5c5c">
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://github.com/x127f/timetable-generator">Timetable generator</a>
+			</td>
+			<td>
+				Ultimate flexible agile timetable generator
+			</td>
+			<td>
+				<img src="https://img.shields.io/github/languages/top/x127f/timetable-generator?color=2d7389">
+				<img src="https://img.shields.io/badge/archived-5c5c5c">
+			</td>
+		</tr>
 		<tr>
 			<td>
 				<a href="https://github.com/Flam3rboy/clickfarm">
@@ -146,6 +152,7 @@
 			<td>A modular account automation tool for multiple services.</td>
 			<td>
 				<img src="https://img.shields.io/github/languages/top/flam3rboy/clickfarm?color=2d7389">
+				<img src="https://img.shields.io/badge/archived-5c5c5c">
 			</td>
 		</tr>
 		<tr>
@@ -155,7 +162,7 @@
 				</a>
 			</td>
 			<td>P5js fork for nodejs</td>
-			<td><img src="https://img.shields.io/github/languages/top/flam3rboy/p5js-node?color=f0e05a"></td>
+			<td><img src="https://img.shields.io/github/languages/top/flam3rboy/p5js-node?color=f0e05a"></td> <img src="https://img.shields.io/badge/archived-5c5c5c">
 		</tr>
 		<tr>
 			<td><a href="https://github.com/Flam3rboy/discord-bot-client">
