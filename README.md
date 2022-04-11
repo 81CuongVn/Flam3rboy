@@ -151,7 +151,9 @@
 				</a>
 			</td>
 			<td>P5js fork for nodejs</td>
-			<td><img src="https://img.shields.io/github/languages/top/flam3rboy/p5js-node?color=f0e05a"></td> <img src="https://img.shields.io/badge/archived-5c5c5c">
+			<td>
+				<img src="https://img.shields.io/github/languages/top/flam3rboy/p5js-node?color=f0e05a"><img src="https://img.shields.io/badge/archived-5c5c5c">
+			</td>
 		</tr>
 		<tr>
 			<td><a href="https://github.com/Flam3rboy/discord-bot-client">
